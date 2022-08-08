@@ -7,8 +7,8 @@ Each task should have its won folder with the complete name of the task (e.g.: "
 
 Within each folder there is a subfolder for each project that uses that task (e.g.: "EAT_TUE004").
 
-Within this task-by-project folder we always include a README file indicating the purpose of each file contained in the folder (N.B.: remember to update this README file each time you make changes to the folder).
+This task-by-project folder should contain files with the different development versions of the task (e.g.: "EAT_TUE00x_v1") and the stable version (e.g.: "EAT_TUE00x_stable").
 
-The folder should also contain files with the different development versions of the task (e.g.: "EAT_TUE00x_v1") and the stable version (e.g.: "EAT_TUE00x_stable").
+Another subfolder should contain all the analyses run for that specific task and project. This folder should also contain a README file explaining the type of analyses and the content of each analysis document.
 
-Another subfolder should contain all the analyses run for that specific task and project. The analyses folder should also contain a README file explaining the type of analyses and the content of each analysis document.
+This main README file should be kept updated with a breif description of what each file contains and how to navigate the folder.
