@@ -3,7 +3,12 @@ Template for projects organisation and sharing
 
 # TEMPLATE ORGANISATION:
 
-Each task should have its won folder with the complete name of the task (e.g.: "Effort_Allocation_Task") separated by underscores ("_").
+Each task should have its won folder with the complete name of the task (e.g.: "Effort_Allocation_Task") separated by underscores ("_"). It should also have a separate README.md file containing (see Tasks/Body_Silhouette_Task/ for an example):
+- a task description, 
+- reference of existing versions,
+- necessary tools to run the task,
+- outputs,
+- settings and/or modifications
 
 Within each folder there is a subfolder for each project that uses that task (e.g.: "EAT_TUE004").
 
